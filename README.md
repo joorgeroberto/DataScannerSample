@@ -1,5 +1,4 @@
 # DataScannerSample
-<br><br><br><br><br><br>
 
 A simple app created using Swift with UIKit to understand how VisionKit Api works and practice Scanning Data with camera using DataScannerViewController.
 
